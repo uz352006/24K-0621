@@ -4,5 +4,4 @@ My name is Umama Zubair.
 * My hobbies include reading, playing badminton and board games.
 * My favorite genres for reading include psychological thrillers, self-help and murder mysteries.
 
-  
-![image](https://github.com/user-attachments/assets/c99a4b11-3deb-4c2b-bb82-8298352eef73)
+  ![image](https://github.com/user-attachments/assets/c99a4b11-3deb-4c2b-bb82-8298352eef73)
